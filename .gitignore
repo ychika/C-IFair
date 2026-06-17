@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Datasets and large files
+data/
+*.zip
+*.csv
+*.parquet
+*.feather
+*.npz
+*.pt
+*.pth
+*.ckpt
+
+# Logs and outputs
+logs/
+outputs/
