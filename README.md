@@ -6,7 +6,7 @@ This repository contains the source code for the following paper:
 
 ### Install libraries
 
-1. Use conda to create python environment (Python=3.8):
+1. Use conda to create python environment (Python=3.9.23):
 
 $ conda env create -n proj-C-IFair -f environment.yml 
 
